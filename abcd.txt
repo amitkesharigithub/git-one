@@ -1,1 +1,3 @@
-hi amit
+hi amit.
+Doing well.
+Be the best developer in the world.
